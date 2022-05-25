@@ -4,7 +4,7 @@ Ausfürung in BlueJ:
 
 Main.main();
 
-> Standardmäßig mit V=java.lang.String
+> Standardmäßig mit V=java.lang.String  
 > btw. nicht alles in System.err ist ein Fehler!
 
 ## Befehle
